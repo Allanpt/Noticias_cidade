@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+    background: #fff url(./assets/nav-fundo.png) repeat-x;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+/* a:link , a:visited */
+#container {
+    width: 760px;
+    margin: 0 auto;
+    
+}
+#header {
+    border: 1px solid red;
+}
+#header .noticias-cidade-logo {
+    display: block;
+    float: left;
+    padding-top: 20px;
+}
+#header .brasil-logo {
+    display: block;
+    float: right;
+}
+#header #navbar ul li {
+    float: left;
+}
+#header #navbar ul li:hover {
+    background-color: #fff;
+}
+#header #navbar ul li a{
+    font-size: 0.9em;
+    padding: 0.5em 1.5em ;
+    display: block;
+    color: #fff;
+    line-height: 2.1em;
+    font-weight: 700;
+    background: url(/assets/divisor.png) repeat-y left center ;
+}
+#header #navbar ul li a:hover{
+    color: rgb(136, 5, 5);
+}
+#header #navbar ul {
+    margin-top: -55px;
+    float: left;
+    background-color: rgb(136, 5, 5);
+}
+
+#main {
+    clear: both;
+    border: 1px solid red;
+}
