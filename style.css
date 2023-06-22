@@ -22,6 +22,7 @@ a {
 }
 #header {
     border: 1px solid red;
+    
 }
 #header .noticias-cidade-logo {
     display: block;
@@ -53,10 +54,48 @@ a {
 #header #navbar ul {
     margin-top: -55px;
     float: left;
+    margin-bottom: 90px;
     background-color: rgb(136, 5, 5);
 }
 
 #main {
     clear: both;
     border: 1px solid red;
+    float: left;
+    width: 760px;
+}
+#main h1{
+    font-size: 1.5em;
+    color: #fff;
+    background-color: #2c4c74;
+}
+#main #barra-lateral-esquerda {
+    float: left;
+    width: 182.5px;
+    background: url(/assets/fundo-caixa.png);
+    padding: 10px;
+    margin-right: 15px;
+}
+#main #barra-centro{
+    float: left;
+    width: 243px;
+    background: url(/assets/fundo-caixa.png);
+    padding: 10px;
+    margin-right: 15px;
+}
+#main #barra-lateral-direita {
+    float: left;
+    width: 244px;
+    background: url(/assets/fundo-caixa.png);
+    padding: 10px;
+
+}
+#footer {
+    clear: both;
+    background: #294c71;
+    padding: 20px;
+    text-align: center;
+}
+#footer h3{
+    color: #fff;
 }
