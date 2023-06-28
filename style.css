@@ -288,7 +288,9 @@ label {
     background: #294c71;
     padding: 20px;
     text-align: center;
+    min-width: 800px;
 }
 #footer h3{
     color: #fff;
+    margin: 0 auto;
 }
