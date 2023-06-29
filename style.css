@@ -58,7 +58,7 @@ label {
     color: #fff;
     line-height: 2.1em;
     font-weight: 700;
-    background: url(/assets/divisor.png) repeat-y left center ;
+    background: url(./assets/divisor.png) repeat-y left center ;
 }
 #header #navbar ul li a:hover{
     color: rgb(136, 5, 5);
@@ -129,7 +129,7 @@ label {
 #main #barra-centro #mundo,
 #main #barra-lateral-direita #destaque,
 #main #barra-lateral-direita #noticias-recentes {
-    background: url(/assets/fundo-caixa.png);
+    background: url(./assets/fundo-caixa.png);
     padding: 5px;
 }
 
@@ -148,7 +148,7 @@ label {
 
 #entrevistas ul a:hover{
     padding-left: 20px;
-    background: url(/assets/marcador.png) no-repeat left center;
+    background: url(./assets/marcador.png) no-repeat left center;
     color: #a4a4a4;
 }
 #news, #mundo, #noticias-recentes{
