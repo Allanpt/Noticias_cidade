@@ -1,4 +1,4 @@
-<h1 align="center"> TecBlog </h1>
+<h1 align="center"> Notícias Cidade </h1>
 
 <p align="center">
 Modelo de site utilizando algumas ferramentas básicas do HTML e CSS como: "hover", "float" e "form e submit"  <br/>
